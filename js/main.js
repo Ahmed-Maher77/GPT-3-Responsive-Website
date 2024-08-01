@@ -15,10 +15,12 @@ navToggler.onclick = function() {
     togglerIcon.classList.toggle('fa-xmark')
 }
 // change the background when scroll
-window.onscroll = () => {
+window.onscroll = changeBackground;
+function changeBackground() {
     if (scrollY > 100) {
         header.classList.add('scroll-bg')
     } else {
         header.classList.remove('scroll-bg')
     }
 }
+changeBackground()
