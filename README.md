@@ -48,7 +48,7 @@ A modern, responsive landing page showcasing GPT-3 AI capabilities with interact
 ## 👀 Website Preview
 
 <a href="https://ahmed-maher77.github.io/GPT-3-Responsive-Website/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/c9f68713-ef96-4240-832c-2341be7b2b1b" alt="website preview - UI Mockup" width="400">
 </a>
 
 ---
